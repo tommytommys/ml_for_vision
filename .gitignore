@@ -1,4 +1,4 @@
 uv.lock
 pyproject.toml
 .venv
-.dataset
+dataset/
