@@ -2,3 +2,5 @@ uv.lock
 pyproject.toml
 .venv
 dataset/
+.python-version
+main.py 
